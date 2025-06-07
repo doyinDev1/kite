@@ -1,0 +1,10 @@
+aiohttp
+aiofiles
+eth-account
+cryptography
+faker
+curl_cffi
+protobuf
+tempmail-lol
+grpcio-tools
+eciespy

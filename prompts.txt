@@ -1,0 +1,110 @@
+[Professor]
+What is the future of AI in blockchain?
+Explain neural networks like I'm five.
+How does zero-knowledge proof work?
+Compare supervised vs. unsupervised learning.
+What are the ethical implications of AI in finance?
+Describe quantum computing's impact on cryptography.
+Break down reinforcement learning with a fun example.
+Teach me about the blockchain trilemma.
+Explain the difference between Web2 and Web3.
+How does federated learning work in decentralized systems?
+What are the limitations of current AI models?
+Explain the role of oracles in smart contracts.
+How can AI improve blockchain scalability?
+Discuss the risks of AI-generated deepfakes in finance.
+What is transfer learning and why is it useful?
+How do generative adversarial networks (GANs) work?
+Explain the Turing Test and its relevance today.
+What is the role of explainable AI in critical systems?
+How does homomorphic encryption enable secure computation?
+Describe the impact of AI on supply chain management.
+What are smart contracts and how are they programmed?
+How does sharding improve blockchain performance?
+Explain the Byzantine Generals Problem.
+What is the difference between public and private blockchains?
+How does consensus work in distributed systems?
+What are the main types of machine learning algorithms?
+How does AI help in fraud detection?
+What is the role of data privacy in AI applications?
+Explain the concept of tokenization in blockchain.
+How does AI optimize energy consumption in mining?
+What are the challenges of scaling decentralized applications?
+How do DAOs (Decentralized Autonomous Organizations) function?
+What is the impact of AI on regulatory compliance?
+How does blockchain ensure data immutability?
+Explain the difference between proof-of-work and proof-of-stake.
+How can AI assist in smart contract auditing?
+
+[Crypto Buddy]
+Best crypto to invest in 2024?
+How does DeFi work?
+What is staking and how do I earn from it?
+Is Ethereum still a good buy this year?
+What are Layer 2 solutions and why do they matter?
+Tell me about meme coins—fun or risky?
+How do I keep my crypto wallet safe?
+What's the easiest way to start yield farming?
+How do airdrops work and where can I find them?
+What is a hardware wallet and why use one?
+How do I avoid crypto scams?
+What are gas fees and how can I reduce them?
+How do I bridge tokens between blockchains?
+What is an NFT and how do I mint one?
+How do I choose a reliable crypto exchange?
+What is a liquidity pool and how does it work?
+How do I track my crypto portfolio?
+What are the tax implications of crypto trading?
+What is a DAO and how can I join one?
+How do I participate in an ICO or token sale?
+What is a wrapped token?
+How do I use decentralized exchanges (DEXs)?
+What is impermanent loss in DeFi?
+How do I set up a multisig wallet?
+What is a crypto faucet and is it worth it?
+How do I recover a lost wallet seed phrase?
+What are stablecoins and why are they important?
+How do I use crypto for everyday purchases?
+What is a blockchain explorer and how do I use it?
+How do I transfer crypto between wallets?
+What is a smart contract and how do I interact with one?
+How do I earn passive income with crypto?
+What is a crypto launchpad?
+How do I analyze a new crypto project?
+What is a governance token?
+
+[Sherlock]
+Solve this crypto mystery...
+Analyze this transaction pattern
+Track a suspicious wallet movement.
+Identify potential rug pulls in this token chart.
+What’s the story behind this sudden price spike?
+Reverse engineer this smart contract behavior.
+Follow the money in this whale transaction.
+Expose wash trading in this NFT collection.
+Investigate a DeFi exploit and its attacker wallet.
+Detect insider trading in token launches.
+Uncover phishing attempts in blockchain projects.
+Trace the origin of a flash loan attack.
+Analyze suspicious voting in a DAO proposal.
+Find links between multiple scam wallets.
+Identify the source of a Sybil attack.
+Spot unusual token minting activity.
+Detect front-running in DEX trades.
+Analyze a suspicious token airdrop.
+Investigate a compromised private key incident.
+Track cross-chain asset movements.
+Uncover hidden fees in a smart contract.
+Analyze a suspicious NFT transfer pattern.
+Trace the flow of funds in a mixer service.
+Identify fake volume on a new exchange.
+Investigate a sudden drop in liquidity.
+Spot a honeypot contract.
+Analyze a suspicious multisig transaction.
+Track the movement of stolen tokens.
+Identify a dusting attack on wallets.
+Investigate a suspicious DAO proposal outcome.
+Trace the origin of a phishing website.
+Analyze a suspicious bridge transaction.
+Detect a pump-and-dump scheme.
+Uncover a fake token listing.

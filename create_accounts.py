@@ -4,7 +4,7 @@ from datetime import datetime
 from web3 import Account
 
 
-number_of_keys = 1000  # Number of keys to generate
+number_of_keys = 100  # Number of keys to generate
 
 def log(msg):
     now = datetime.now().isoformat(" ").split(".")[0]

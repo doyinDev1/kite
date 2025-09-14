@@ -1,10 +1,9 @@
-aiohttp
-aiofiles
+web3
 eth-account
+eth-abi
+eth-utils
 cryptography
-faker
-curl_cffi
-protobuf
-tempmail-lol
-grpcio-tools
-eciespy
+aiohttp
+aiohttp-socks
+fake-useragent
+colorama
